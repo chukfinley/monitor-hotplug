@@ -56,7 +56,7 @@ Designed for use with [dwm](https://dwm.suckless.org/) or other X11 window manag
 
 ## License
 
-MIT
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
 ---
 
